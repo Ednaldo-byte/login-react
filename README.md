@@ -18,11 +18,11 @@
   
 - Clone o repositório em sua máquina:
     ```bash
-    $ git clone https://github.com/Ednaldo-byte/LaPizza-react.git 
+    $ git clone https://github.com/Ednaldo-byte/login-react.git
     ```
 - Entre no repositório usando:
     ```bash
-    $ cd LaPizza-react
+    $ cd login-react
     ```
 - Execute o comando para instalar as dependências:
     ```bash
