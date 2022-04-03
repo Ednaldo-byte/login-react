@@ -5,16 +5,17 @@
   
   Obs: Ainda não é possível cadastrar novos usuários, apenas verificar se existe.
 
-  ## 👨‍💻 Tecnologias
-  As tecnologias usadas nesse projeto foram:
+### Tecnologias usadas
+
+Para a criação do projeto foi usado: 
+
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescript.org/)
 - [json-server](https://www.npmjs.com/package/json-server)
-- [Styled-Components](https://styled-components.com/)
-<p></p>
+- [styled components](https://styled-components.com/)
 
-  ## 🖇 Executar o Projeto
+## 🖇 Executar o Projeto
   
 - Clone o repositório em sua máquina:
     ```bash
