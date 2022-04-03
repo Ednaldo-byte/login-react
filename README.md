@@ -1,7 +1,7 @@
 # Login - react
 
 ## 🖥 Projeto
-  Projeto desenvolvido para fins de prática e desenvolvimento do conhecimento e uso do ReactJS + Hooks, StyledComponents, Rotas e Consumo de API como utilização de um banco de dados 'fake', simulando uma verificação dos usuários cadastrados.
+  Projeto desenvolvido para fins de prática e desenvolvimento do conhecimento e uso do ReactJS + Hooks, StyledComponents, Rotas e consumo de API como utilização de um banco de dados 'fake', simulando uma verificação dos usuários cadastrados.
 
 ### Tecnologias usadas
 
